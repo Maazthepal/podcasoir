@@ -1,0 +1,6 @@
+{
+  "/(root)/page": "app/(root)/page.js",
+  "/(auth)/sign-in/[[...sign-in]]/page": "app/(auth)/sign-in/[[...sign-in]]/page.js",
+  "/(root)/create-podcast/page": "app/(root)/create-podcast/page.js",
+  "/(root)/discover/page": "app/(root)/discover/page.js"
+}
